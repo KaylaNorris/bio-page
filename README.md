@@ -15,7 +15,7 @@ This website can be used as a way to share my interests with others. Since this 
 
 ## Credits
 
-N/A
+This page was inspired by the Create and Style a Webpage programming assignment in Meta's Introduction to Front-End Development Coursera Course.
 
 ## License
 
