@@ -3,9 +3,7 @@
     padding: 0;
 }
 
-
-header{
-
+header {
     width: 100%;
     height: 120px;
     background-color: purple;
@@ -13,14 +11,12 @@ header{
     font-size: xx-large;
 }
 
-
 div {
     width: 35px;
     height: 5px;
     background-color: black;
     margin: 6px 0;
 }
-
 
 img {
     display: block;
